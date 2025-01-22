@@ -1,5 +1,7 @@
 This repository contains a series of data-analysis tools which were developed for use in the Texas A&M Engineering 217 course.
+
 Summary of tools:
+
 **Matrix_Flat_To_Full.xlsx** is an excel workbook which contains a scalable system for creating matrices
 from a "flat" list of data.
 A flat list of data consisting of x,y,z components was outputted by various tools used throughout the labs in 217.
