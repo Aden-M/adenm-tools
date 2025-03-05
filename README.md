@@ -15,3 +15,7 @@ in several 217 labs.
 several bugfixes related to data input, data plotting, and NAN input errors.
 It is meant to be used in conjunction with matrix data (.csv format) from the Visualization Studio or 
 from the Matrix_Flat_To_Full.xlsx tool.
+
+**Two Dimensional Gradient Tool** is an excel workbook which creates x and y gradient components for an inputted dataset,
+**BEWARE** there is currently a bug which seems to affect the direction of generated vectors in the vector plotting tool,
+thus, it is the users responsibility to ensure that the data outputted is both reasonable and factual.
